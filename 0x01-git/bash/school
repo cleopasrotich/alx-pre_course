@@ -2,5 +2,10 @@
 The school is open!
 =======
 #!/bin/bash
+<<<<<<< HEAD
 School
 >>>>>>> 905c93d1e5eb11502208b99d54f59f87d2ccd019
+=======
+The school is open!
+3
+>>>>>>> b02b36bc4445c26f7cabfcf6650f344358cf4167
